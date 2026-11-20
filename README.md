@@ -1,2 +1,2 @@
 # DV_Faals150
-This Mod adds the Faals150 6 acle ore wagon to Derail Valley
+Adds a 6 axled ore hopper car, heavily based on the german Faals 150 to Derail Valely.
